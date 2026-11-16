@@ -30,7 +30,7 @@ El *transfer learning* supera a la CNN desde cero de forma estadísticamente sig
 
 | Archivo | Descripción |
 |---|---|
-| `ProyectoProgramacion.ipynb` | Notebook completo y ejecutado: código, logs de entrenamiento, gráficas, análisis y conclusiones |
+| `11_LopezMartinez_CesarNikolai.ipynb` | Notebook completo y ejecutado: código, logs de entrenamiento, gráficas, análisis y conclusiones |
 | `11_LopezMartinez_CesarNikolai.pdf` | Versión en PDF del notebook, que es el documento entregado |
 
 ## Reproducción
