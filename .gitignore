@@ -1,0 +1,23 @@
+# Credenciales personales
+kaggle.json
+.kaggle/
+access_token
+
+# Datos y modelos entrenados (demasiado grandes; se regeneran con el notebook)
+intel/
+seg_train/
+seg_test/
+seg_pred/
+*.zip
+experimentos/
+*.weights.h5
+*.h5
+*.keras
+
+# Archivos temporales
+.ipynb_checkpoints/
+*.bak
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini
